@@ -21,3 +21,6 @@ Here are the primary things we do in this chapter.
     git clone https://github.com/ionic-in-action/chapter4.git
     cd chapter4
     ionic serve
+
+
+### I check it out for my own modify
